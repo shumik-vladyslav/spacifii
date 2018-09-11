@@ -30,6 +30,8 @@
     text-shadow: none;
     text-transform: uppercase;
     box-shadow: 0px 0px 16px #00000059;
+
+    
 }
 .logo {
     top: 2px;
@@ -227,10 +229,11 @@ header .title{
 
 .img-slide-menu-wrap{
     height: 60px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
     .img-slide-menu{
         width: 60px !important;
-        margin-bottom: 22px;
-        margin-top: 26px;
     }
 }
 .slide-menu-item{
