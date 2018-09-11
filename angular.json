@@ -27,9 +27,25 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/font-awesome.css",
+              "src/assets/css/furniture-icons.css",
+              "src/assets/css/linear-icons.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/ion-range-slider.css",
+              "src/assets/css/theme.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/jquery.bootstrap.js",
+              "src/assets/js/jquery.magnific-popup.js",
+              "src/assets/js/jquery.owl.carousel.js",
+              "src/assets/js/jquery.ion.rangeSlider.js",
+              "src/assets/js/jquery.isotope.pkgd.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -76,9 +92,25 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/font-awesome.css",
+              "src/assets/css/furniture-icons.css",
+              "src/assets/css/linear-icons.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/ion-range-slider.css",
+              "src/assets/css/theme.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/jquery.bootstrap.js",
+              "src/assets/js/jquery.magnific-popup.js",
+              "src/assets/js/jquery.owl.carousel.js",
+              "src/assets/js/jquery.ion.rangeSlider.js",
+              "src/assets/js/jquery.isotope.pkgd.js",
+              "src/assets/js/main.js"
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"

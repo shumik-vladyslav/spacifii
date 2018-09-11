@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+.text-center{
+    text-align: center;
+}
+.p-4{
+    padding: 4px;
+}
+.owl-pagination{
+    .owl-page{
+       span{
+        width: 10px !important;
+        height: 10px !important;
+        background: #a9a8a8 !important;
+       }
+    }
+    .owl-page.active{
+        span{
+            background: #242220 !important;
+        }
+    }
+}
